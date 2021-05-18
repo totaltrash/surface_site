@@ -116,7 +116,7 @@ defmodule SurfaceSiteWeb.Properties do
                 </div>
                 <footer class="card-footer">
                   <#Code
-                    language="elixir"
+                    language="surface"
                     module={{ SurfaceSiteWeb.Properties.Example02.Example }}
                     line_range={{ 28..30 }}
                   />
